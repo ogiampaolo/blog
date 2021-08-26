@@ -9,13 +9,12 @@ theme_settings:
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "Como diminuir a chance do seu produto dar errado?" # used by search engines
+  description: "Posts sobre como diminuir a chance do produto ou serviço dar errado." # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>Product Management: muita descoberta, princípios e aprendizados.</p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
@@ -42,7 +41,7 @@ theme_settings:
   tumblr:
   twitter:
   wordpress:
-  youtube:
+  youtube: https://youtube.com/c/ogiampaolo
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
