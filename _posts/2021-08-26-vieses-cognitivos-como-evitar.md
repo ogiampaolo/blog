@@ -21,7 +21,7 @@ Algo que tende a seguir certo caminho ou a agir de determinada maneira.
 
 E não existe truque para lidar com vieses, é simplesmente você estar consciente, repetidamente, que eles existem.
 
-Antes de começar, saiba que você também pode ver esse conteúdo em vídeo, lá no [YouTube](https://youtube.com/c/ogiampaolo).
+Antes de começar, saiba que você poderá ver esse conteúdo em vídeo, lá no [YouTube](https://youtube.com/c/ogiampaolo), no final dessa semana.
 
 
 ## **1º viés - Viés de confirmação**
@@ -130,4 +130,4 @@ Porque é bem perigoso assumir como verdade que as pessoas pensam como você, ou
 Se você tem uma ideia por exemplo, e quer implementar, é importante observar de onde essa ideia surgiu. É algum problema **seu** que você está tentando resolver? Se sim, ótimo, você só precisa provar que **também é um problema com outras pessoas.** Mas, se vale o lembrete, cuidado com o viés de confirmação...
 
 ## 
-Espero que você tenha curtido, e se você é uma pessoa mais visual, grande parte dos conteúdos deste blog está no canal do [YouTube](https://youtube.com/c/ogiampaolo) também. 
+Espero que você tenha curtido, e se você é uma pessoa mais visual, grande parte dos conteúdos deste blog estará no canal do [YouTube](https://youtube.com/c/ogiampaolo) também. 
