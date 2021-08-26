@@ -31,8 +31,8 @@ theme_settings:
   github: "rohanchandra/type-theme"
   gitter:
   google_plus:
-  instagram:
-  linkedin:  # Full URL
+  instagram: ogiampaolo
+  linkedin: https://www.linkedin.com/in/giampaolo-lepore/
   pinterest:
   reddit:
   soundcloud:
@@ -41,7 +41,7 @@ theme_settings:
   tumblr:
   twitter:
   wordpress:
-  youtube: https://youtube.com/c/ogiampaolo
+  youtube: ogiampaolo
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
