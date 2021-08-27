@@ -5,8 +5,10 @@ permalink: /about/
 feature-img: "assets/img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Opa, tudo bem? Sou o Giampaolo, seja muito bem vindo ao meu blog.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+Falo sobre produto, growth e às vezes um pouco sobre alguns princípios pessoais que também ajudam no trabalho. Tenho um canal no YouTube que é complementar à este blog.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Hoje sou cofundador e Product Manager no Simplicode, empresa que ensina programação para crianças de todo Brasil.
+
+Se quiser conversar sobre algo, ou dar feedback no blog, é só me chamar no LinkedIn ou no Instagram.
