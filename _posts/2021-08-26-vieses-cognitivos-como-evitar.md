@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 vieses cognitivos e como evitá-los
-permalink: 6-vieses-comportamentais-e-como-evitar
+permalink: 6-vieses-cognitivos-e-como-evitar
 tags: [fundamentos]
 ---
 
