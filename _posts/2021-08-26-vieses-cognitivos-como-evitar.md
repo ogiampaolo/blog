@@ -5,13 +5,9 @@ permalink: 6-vieses-cognitivos-e-como-evitar
 tags: [fundamentos]
 ---
 
-Presta atenção no lado direito da tela **nos próximos 10 segundos**, veja se você encontra um detalhe importante.
+É muito simples ser enviesado para enxergar algum comportamento específico. E o fato de ser simples, que tornam os vieses perigosos.
 
-Achou? ~~Provavelmente não.~~
-
-Sabe o que é interessante? Que é muito simples ser enviesado para enxergar algum comportamento.
-
-E por mais que eu não tenha feito nada diferente do lado direito da tela durante esses 10 segundos de leitura, se alguma coisa diferente tivesse surgido, por menor que seja, você já ia falar: **é isso que eu tinha que ver.**
+Bom seria se também fosse simples sair desses vieses, infelizmente não é. O primeiro passo é entendê-los, para então agir.
 
 A definição de viés ou tendência é:
 
