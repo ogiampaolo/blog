@@ -31,7 +31,7 @@ Principalmente durante a pandemia, várias empresas fecharam justamente pela fal
 
 Em algumas empresas que já entrei, uma das  minhas primeiras buscas era se a empresa conversava com o cliente, como era esse ponto de contato com o cliente? Logo de cara fiquei assustado porque praticamente todas as empresas **tinham sim contato com o cliente.**
 
-Mas quando entrava à fundo, esse contato era somente para perguntar se o cliente tinha gostado do produto, aplicando metodologias como NPS. Mesmo esse NPS não servia muito para a empresa, não entendia-se o porquê daquela nota. Faltava compreensão sobre o que realmente tinha gerado valor ou não para o cliente.
+Mas quando entrava à fundo, esse contato era somente para perguntar se o cliente havia gostado do produto, aplicando metodologias como NPS. Mesmo esse NPS não servia muito para a empresa, não entendia-se o porquê daquela nota. Faltava compreensão sobre o que realmente tinha gerado valor ou não para o cliente.
 
 **Então quando falo de entrevistas com os clientes, falo de atitudes mais proativas**, e não reativas. Ou seja, você entra em contato com o cliente, entre outras coisas, para:
 
