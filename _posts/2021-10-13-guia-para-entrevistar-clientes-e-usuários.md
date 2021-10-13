@@ -195,7 +195,7 @@ _Ah, às vezes a pessoa já respondeu uma pergunta que você faria, antes de voc
 
 **Muitas vezes a resposta vai ser superficial**, e o grande segredo é entrar à fundo. Essa é a diferença entre quem nunca realizou uma entrevista, e quem já tem certa experiência. De início você não consegue formular perguntas em cima das respostas do cliente ali na hora, mas com o tempo você desenvolve essa habilidade.
 
-Se for o caso de **coletar informações de um cliente que está saindo do seu serviço, tente ser mais pontual**, seja objetivo, se possível faça a pergunta mais importante (se for apenas uma, ainda melhor). Conseguir entrevistas esses clientes é um pouquinho mais difícil.
+Se for o caso de **coletar informações de um cliente que está saindo do seu serviço, tente ser mais pontual**, seja objetivo, se possível faça a pergunta mais importante (se for apenas uma, ainda melhor). Conseguir entrevistas com esses clientes é um pouquinho mais difícil.
 
 E a pergunta que não quer calar: **quando parar com as entrevistas?** É simples, quando não tem nada novo, as respostas já estão entrando no mesmo padrão.
 
