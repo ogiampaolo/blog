@@ -27,7 +27,7 @@ Os livros são esses:
 
 Antes da gente começar com o como, eu queria deixar claro pra vocês o porquê das entrevistas.
 
-Principalmente durante a pandemia, várias empresas fecharam justamente pela falta de contato com clientes. Faltava o entendimento das novas motivações dos clientes. Como eles estavam buscando progredir naquele momento? Qual melhoria estavam buscando pra vida deles?
+Principalmente durante a pandemia, várias empresas fecharam justamente pela falta de contato com clientes. Faltava o entendimento das novas motivações dos clientes. Como eles estavam buscando progredir naquele momento? Qual melhoria buscavam para a vida deles?
 
 Em algumas empresas que já entrei, uma das  minhas primeiras buscas era se a empresa conversava com o cliente, como era esse ponto de contato com o cliente? Logo de cara fiquei assustado porque praticamente todas as empresas **tinham sim contato com o cliente.**
 
