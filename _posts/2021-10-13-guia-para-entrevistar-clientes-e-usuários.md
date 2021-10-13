@@ -143,7 +143,7 @@ Então se por exemplo, você está fazendo entrevistas pra descobrir os motivos 
 
 Ufa, é muita coisa né? Mas agora vamos pra última parte, que são os exemplos de perguntas.
 
-**PARTE 4 - PERGUNTAS PARA FAZER**
+### PARTE 4 - PERGUNTAS PARA FAZER
 
 Uma pergunta quebra-gelo de início é importante.
 
