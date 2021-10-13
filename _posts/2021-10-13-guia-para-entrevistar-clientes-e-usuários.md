@@ -80,7 +80,7 @@ O que você não quer em uma entrevista? No meu caso, é enviesar as respostas, 
 
 **4. Não se prenda aos elogios.** Caso a pessoa já te conheça, ou saiba algo sobre você, deixa os elogios um pouco de lado, isso não vai te ajudar a aprender nesse momento. E se por um acaso a pessoa te elogiar no final, depois que você falar da sua ideia, lembre-se que elogio não é compromisso. Não é porque ela te elogiou que ela compraria seu produto.
 
-5. Você vai encontrar os “reclamões” durante as entrevistas, são pessoas que reclamam de tudo, mas não faz muita coisa pra resolver. Eles podem dar **uma falsa sensação de que um problema é muito grande**, enviesando o entrevistador. Nesse caso, também tente ancorar nos comportamentos.
+**5. Você vai encontrar as “falsas reclamações”** durante as entrevistas, são pessoas que reclamam de tudo, mas não faz muita coisa pra resolver. Eles podem dar uma falsa sensação de que um problema é muito grande, enviesando o entrevistador. Nesse caso, também tente ancorar nos comportamentos.
 
 Se a pessoa falar: “nossa isso pra mim é horrível, realmente acaba com o meu dia”, se isso realmente for horrível, provavelmente a pessoa tentou melhorar de alguma maneira né? Mas o que acontece, é que quando você pergunta o que a pessoa já tentou pra resolver aquele problema, pode ser que ela responda que nunca tentou nada. Isso pode ser um sinal que esse problema não é tão grande assim.
 
@@ -192,7 +192,9 @@ _Ah, às vezes a pessoa já respondeu uma pergunta que você faria, antes de voc
 **DICAS FINAIS**
 
 * **Pratique a Escuta ativa**: pegue trechos do que a pessoa falou para formular sua pergunta (porque a pessoa se sente ouvida quando você cita na sua pergunta algo que ela falou). Não fique pensando na próxima pergunta, preste atenção no entrevistado.
+
 * **Muitas vezes a resposta vai ser superficial**, e o grande segredo é entrar à fundo. Essa é a diferença entre quem nunca realizou uma entrevista, e quem já tem certa experiência. De início você não consegue formular perguntas em cima das respostas do cliente ali na hora, mas com o tempo você desenvolve essa habilidade.
+
 * Se for o caso de **coletar informações de um cliente que está saindo do seu serviço, tente ser mais pontual**, seja objetivo, se possível faça a pergunta mais importante (se for apenas uma, ainda melhor). Conseguir entrevistas esses clientes é um pouquinho mais difícil.
 * E a pergunta que não quer calar: **quando parar com as entrevistas?** É simples, quando não tem nada novo, as respostas já estão entrando no mesmo padrão.
 
