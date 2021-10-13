@@ -14,8 +14,8 @@ Os livros são esses:
 **1. Lean Customer Development**
 **2. 4 steps to epiphany**
 **3. The Mom Test**
-**4. [Intercom on Jobs to be done] (https://www.intercom.com/resources/books/intercom-jobs-to-be-done)**
-**5. [When Coffee and Kale Compete] (http://www.whencoffeeandkalecompete.com/)**
+**4. [Intercom on Jobs to be done](https://www.intercom.com/resources/books/intercom-jobs-to-be-done)**
+**5. [When Coffee and Kale Compete](http://www.whencoffeeandkalecompete.com/)**
 **6. Continuous Discovery Habits**
 **7. Comunicação Não Violenta**
 
@@ -66,15 +66,15 @@ Existem circunstâncias que você pode encaixar uma ou outra coisa, mas sugiro v
 
 O que você não quer em uma entrevista? No meu caso, é enviesar as respostas, e por isso evitar as 5 ações que vou falar agora é bem importante.
 
-[ ] **Não fale da ideia ou solução que você está pensando logo de início.** Deixa isso pro final, caso faça sentido compartilhar. Falar no início da conversa pode enviesar (bastante) as respostas.
+- **Não fale da ideia ou solução que você está pensando logo de início.** Deixa isso pro final, caso faça sentido compartilhar. Falar no início da conversa pode enviesar (bastante) as respostas.
 
-[ ] **Perguntas hipotéticas sozinhas não são boas,** são perguntas que começam com: você usaria, você gostaria, você reclamaria, você se importaria, ou seja perguntas no futuro do pretérito. Mas se em algum momento você precisar fazer esse tipo de pergunta, tente corrigir buscando as motivações e comportamentos por trás dessas respostas. 
+- **Perguntas hipotéticas sozinhas não são boas,** são perguntas que começam com: você usaria, você gostaria, você reclamaria, você se importaria, ou seja perguntas no futuro do pretérito. Mas se em algum momento você precisar fazer esse tipo de pergunta, tente corrigir buscando as motivações e comportamentos por trás dessas respostas. 
 
-[ ] Respostas que começam com: ”Eu geralmente…” ”Eu sempre…” ”Eu nunca…” necessitam de uma pergunta a mais, para entender o que é esse “_geralmente_”, o que é _“sempre_”. Tente ser mais específico.
+- **Respostas que começam com**: ”Eu geralmente…” ”Eu sempre…” ”Eu nunca…” necessitam de uma pergunta a mais, para entender o que é esse “_geralmente_”, o que é _“sempre_”. Tente ser mais específico.
 
-[ ] **Não se prenda aos elogios.** Caso a pessoa já te conheça, ou saiba algo sobre você, deixa os elogios um pouco de lado, isso não vai te ajudar a aprender nesse momento. E se por um acaso a pessoa te elogiar no final, depois que você falar da sua ideia, lembre-se que elogio não é compromisso. Não é porque ela te elogiou que ela compraria seu produto.
+- **Não se prenda aos elogios.** Caso a pessoa já te conheça, ou saiba algo sobre você, deixa os elogios um pouco de lado, isso não vai te ajudar a aprender nesse momento. E se por um acaso a pessoa te elogiar no final, depois que você falar da sua ideia, lembre-se que elogio não é compromisso. Não é porque ela te elogiou que ela compraria seu produto.
 
-[ ] Você vai encontrar os “reclamões” durante as entrevistas, são pessoas que reclamam de tudo, mas não faz muita coisa pra resolver. Eles podem dar **uma falsa sensação de que um problema é muito grande**, enviesando o entrevistador. Nesse caso, também tente ancorar nos comportamentos.
+- Você vai encontrar os “reclamões” durante as entrevistas, são pessoas que reclamam de tudo, mas não faz muita coisa pra resolver. Eles podem dar **uma falsa sensação de que um problema é muito grande**, enviesando o entrevistador. Nesse caso, também tente ancorar nos comportamentos.
 
 Se a pessoa falar: “nossa isso pra mim é horrível, realmente acaba com o meu dia”, se isso realmente for horrível, provavelmente a pessoa tentou melhorar de alguma maneira né? Mas o que acontece, é que quando você pergunta o que a pessoa já tentou pra resolver aquele problema, pode ser que ela responda que nunca tentou nada. Isso pode ser um sinal que esse problema não é tão grande assim.
 
@@ -149,8 +149,8 @@ Mesmo sendo uma pergunta quebra-gelo, ela já pode ser direcionada ao tema princ
 
 Você pode pedir que ele conte uma história inicial sobre o tema:
 
-“Me conte mais sobre…”
-“Pode me falar um pouco sobre como você conheceu a empresa/serviço?”
+“Me conte mais sobre…”;
+“Pode me falar um pouco sobre como você conheceu a empresa/serviço?”;
 
 Essas 2 perguntas são ótimas, a primeira “Me conte mais sobre” permite já que a gente entenda muita coisa sobre a visão de mundo do entrevistado. Você já consegue perceber se é uma pessoa mais aberta, se é uma pessoa que fala mais, ou uma pessoa mais objetiva, e ajusta a sua entrevista com base nisso.
 
@@ -159,15 +159,18 @@ Depois dessa pergunta quebra-gelo, você pode começar normalmente a entrevista.
 Aqui algumas perguntas com base nos princípios da parte 1.
 
 **Comportamentos**
-“Qual foi a última vez que aconteceu X, Y, Z”
+
+“Qual foi a última vez que aconteceu X, Y, Z?"
 “O que você já tentou para resolver isso?”
 
 **Contexto** 
+
 “Pode me falar um pouco mais quando X, Y, Z aconteceu?”
 “Me conta sobre o que você está fazendo para melhorar isso?”
 “O que te impede de alcançar isso?”
 
 **Motivações**
+
 “Por que X te incomoda?”
 “Quais as consequências disso?”
 “Por que você fez tal coisa…”
@@ -188,6 +191,6 @@ _Ah, às vezes a pessoa já respondeu uma pergunta que você faria, antes de voc
 
 - Se for o caso de **coletar informações de um cliente que está saindo do seu serviço, tente ser mais pontual**, seja objetivo, se possível faça a pergunta mais importante (se for apenas uma, ainda melhor). Conseguir entrevistas esses clientes é um pouquinho mais difícil.
 
-E a pergunta que não quer calar: **quando parar com as entrevistas?** É simples, quando não tem nada novo, as respostas já estão entrando no mesmo padrão.
+- E a pergunta que não quer calar: **quando parar com as entrevistas?** É simples, quando não tem nada novo, as respostas já estão entrando no mesmo padrão.
 
-Se você achar que vale compartilhar esse conteúdo com alguém, sinta-se totalmente à vontade, eu tenho [vídeos complementares] (https://youtube.com/c/ogiampaolo) à este artigo no canal também, como um que eu falo sobre como a concorrência nem sempre é o que a gente imagina.
+Se você achar que vale compartilhar esse conteúdo com alguém, sinta-se totalmente à vontade, eu tenho [vídeos complementares](https://youtube.com/c/ogiampaolo) à este artigo no canal também, como um que eu falo sobre como a concorrência nem sempre é o que a gente imagina.
