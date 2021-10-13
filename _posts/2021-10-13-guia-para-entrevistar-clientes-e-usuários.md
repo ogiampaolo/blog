@@ -73,13 +73,9 @@ Existem circunstâncias que você pode encaixar uma ou outra coisa, mas sugiro v
 O que você não quer em uma entrevista? No meu caso, é enviesar as respostas, e por isso evitar as 5 ações que vou falar agora é bem importante.
 
 1. **Não fale da ideia ou solução que você está pensando logo de início.** Deixa isso pro final, caso faça sentido compartilhar. Falar no início da conversa pode enviesar (bastante) as respostas.
-
 2. **Perguntas hipotéticas sozinhas não são boas,** são perguntas que começam com: você usaria, você gostaria, você reclamaria, você se importaria, ou seja perguntas no futuro do pretérito. Mas se em algum momento você precisar fazer esse tipo de pergunta, tente corrigir buscando as motivações e comportamentos por trás dessas respostas. 
-
 3. **Respostas que começam com**: ”Eu geralmente…” ”Eu sempre…” ”Eu nunca…” necessitam de uma pergunta a mais, para entender o que é esse “_geralmente_”, o que é _“sempre_”. Tente ser mais específico.
-
 4. **Não se prenda aos elogios.** Caso a pessoa já te conheça, ou saiba algo sobre você, deixa os elogios um pouco de lado, isso não vai te ajudar a aprender nesse momento. E se por um acaso a pessoa te elogiar no final, depois que você falar da sua ideia, lembre-se que elogio não é compromisso. Não é porque ela te elogiou que ela compraria seu produto.
-
 5. Você vai encontrar os “reclamões” durante as entrevistas, são pessoas que reclamam de tudo, mas não faz muita coisa pra resolver. Eles podem dar **uma falsa sensação de que um problema é muito grande**, enviesando o entrevistador. Nesse caso, também tente ancorar nos comportamentos.
 
 Se a pessoa falar: “nossa isso pra mim é horrível, realmente acaba com o meu dia”, se isso realmente for horrível, provavelmente a pessoa tentou melhorar de alguma maneira né? Mas o que acontece, é que quando você pergunta o que a pessoa já tentou pra resolver aquele problema, pode ser que ela responda que nunca tentou nada. Isso pode ser um sinal que esse problema não é tão grande assim.
@@ -192,11 +188,8 @@ _Ah, às vezes a pessoa já respondeu uma pergunta que você faria, antes de voc
 **DICAS FINAIS**
 
 * **Pratique a Escuta ativa**: pegue trechos do que a pessoa falou para formular sua pergunta (porque a pessoa se sente ouvida quando você cita na sua pergunta algo que ela falou). Não fique pensando na próxima pergunta, preste atenção no entrevistado.
-
 * **Muitas vezes a resposta vai ser superficial**, e o grande segredo é entrar à fundo. Essa é a diferença entre quem nunca realizou uma entrevista, e quem já tem certa experiência. De início você não consegue formular perguntas em cima das respostas do cliente ali na hora, mas com o tempo você desenvolve essa habilidade.
-
 * Se for o caso de **coletar informações de um cliente que está saindo do seu serviço, tente ser mais pontual**, seja objetivo, se possível faça a pergunta mais importante (se for apenas uma, ainda melhor). Conseguir entrevistas esses clientes é um pouquinho mais difícil.
-
 * E a pergunta que não quer calar: **quando parar com as entrevistas?** É simples, quando não tem nada novo, as respostas já estão entrando no mesmo padrão.
 
 Se você achar que vale compartilhar esse conteúdo com alguém, sinta-se totalmente à vontade, eu tenho [vídeos complementares](https://youtube.com/c/ogiampaolo) à este artigo no canal também, como um que eu falo sobre como a concorrência nem sempre é o que a gente imagina.
