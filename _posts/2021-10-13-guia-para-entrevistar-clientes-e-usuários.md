@@ -11,13 +11,13 @@ Nesse artigo juntei experiência que já tive rodando algumas centenas de entrev
 
 Os livros são esses:
 
-**1. Lean Customer Development**
-**2. 4 steps to epiphany**
-**3. The Mom Test**
-**4. [Intercom on Jobs to be done](https://www.intercom.com/resources/books/intercom-jobs-to-be-done)**
-**5. [When Coffee and Kale Compete](http://www.whencoffeeandkalecompete.com/)**
-**6. Continuous Discovery Habits**
-**7. Comunicação Não Violenta**
+**1 Lean Customer Development**
+**2 4 steps to epiphany**
+**3 The Mom Test**
+**4 [Intercom on Jobs to be done](https://www.intercom.com/resources/books/intercom-jobs-to-be-done)**
+**5 [When Coffee and Kale Compete](http://www.whencoffeeandkalecompete.com/)**
+**6 Continuous Discovery Habits**
+**7 Comunicação Não Violenta**
 
 Antes da gente começar com o como, eu queria deixar claro pra vocês o porquê das entrevistas.
 
