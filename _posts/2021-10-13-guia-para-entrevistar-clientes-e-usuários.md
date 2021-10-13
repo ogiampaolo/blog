@@ -98,7 +98,7 @@ Primeiro é importante que você defina o objetivo, por que você vai entrevista
 
 Bom, depois que você definiu o objetivo, **recomendo você fazer uma matriz CSD.**
 
-O que é uma matriz CSD, Giampaolo? CSD significa Certezas, Suposições e Dúvidas.
+O que é uma [matriz CSD](https://brasil.uxdesign.cc/matriz-csd-tudo-o-que-voc%C3%AA-precisa-saber-897e39c797e7), Giampaolo? CSD significa Certezas, Suposições e Dúvidas.
 
 Simplesmente escreva todas as coisas que são certezas, tudo o que é suposição e tudo o que é dúvida.
 
@@ -191,7 +191,7 @@ _Ah, às vezes a pessoa já respondeu uma pergunta que você faria, antes de voc
 
 **DICAS FINAIS**
 
-**Pratique a Escuta ativa**: pegue trechos do que a pessoa falou para formular sua pergunta (porque a pessoa se sente ouvida quando você cita na sua pergunta algo que ela falou). Não fique pensando na próxima pergunta, preste atenção no entrevistado.
+**Pratique a escuta ativa**: pegue trechos do que a pessoa falou para formular sua pergunta (porque a pessoa se sente ouvida quando você cita na sua pergunta algo que ela falou). Não fique pensando na próxima pergunta, preste atenção no entrevistado.
 
 **Muitas vezes a resposta vai ser superficial**, e o grande segredo é entrar à fundo. Essa é a diferença entre quem nunca realizou uma entrevista, e quem já tem certa experiência. De início você não consegue formular perguntas em cima das respostas do cliente ali na hora, mas com o tempo você desenvolve essa habilidade.
 
