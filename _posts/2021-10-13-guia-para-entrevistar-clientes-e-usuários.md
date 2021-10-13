@@ -5,20 +5,19 @@ permalink: guia-para-entrevistas-com-clientes-e-usuarios
 tags: [fundamentos]
 ---
 
-# 
 Escutar o cliente como base para o produto ou marketing já não é mais uma novidade. Inclusive em muitos casos já é uma necessidade.
 
 Nesse artigo juntei experiência que já tive rodando algumas centenas de entrevistas, e complementei com a união do conteúdo de 7 livros que abordam o tema de alguma maneira.
 
 Os livros são esses:
 
-#### 1. Lean Customer Development
-#### 2. 4 steps to epiphany
-#### 3. The Mom Test
-#### 4. Intercom on Jobs to be done
-#### 5. When Coffee and Kale Compete
-#### 6. Continuous Discovery Habits
-#### 7. Comunicação Não Violenta
+**1. Lean Customer Development**
+**2. 4 steps to epiphany**
+**3. The Mom Test**
+**4. [Intercom on Jobs to be done] (https://www.intercom.com/resources/books/intercom-jobs-to-be-done)**
+**5. [When Coffee and Kale Compete] (http://www.whencoffeeandkalecompete.com/)**
+**6. Continuous Discovery Habits**
+**7. Comunicação Não Violenta**
 
 Antes da gente começar com o como, eu queria deixar claro pra vocês o porquê das entrevistas.
 
@@ -33,18 +32,14 @@ Mas quando entrava à fundo, esse contato era somente para perguntar se o client
 1. Definir o que você vai fazer no seu produto;
 2. Definir como você vai posicionar o seu produto no marketing, entendendo comportamentos, motivações e o momento dos clientes;
 
-
 ### *COMO FAZER AS ENTREVISTAS:*
 
 Vamos dividir o “como” em 4 partes:
 
 1. Na primeira parte vou falar sobre os **princípios das entrevistas**, que pra mim é o mais importante de tudo nesse artigo;
-
 2. Logo em seguida, **eu falo mais sobre o que não fazer**, o que você deve evitar;
-
 3. Na terceira parte, comento sobre **como preparar as entrevistas**;
-
-4. E por fim, concluo com **exemplos de perguntas que podem ser feita**s, para cada um dos princípios que vou apresentar na parte 1;
+4. E por fim, concluo com **exemplos de perguntas que podem ser feita**s, para cada um dos princípios que vou apresentar na parte 1
 
 
 ### PARTE 1 - PRINCÍPIOS
@@ -71,15 +66,17 @@ Existem circunstâncias que você pode encaixar uma ou outra coisa, mas sugiro v
 
 O que você não quer em uma entrevista? No meu caso, é enviesar as respostas, e por isso evitar as 5 ações que vou falar agora é bem importante.
 
-- [ ] **Não fale da ideia ou solução que você está pensando logo de início.** Deixa isso pro final, caso faça sentido compartilhar. Falar no início da conversa pode enviesar (bastante) as respostas.
+[ ] **Não fale da ideia ou solução que você está pensando logo de início.** Deixa isso pro final, caso faça sentido compartilhar. Falar no início da conversa pode enviesar (bastante) as respostas.
 
-- [ ] **Perguntas hipotéticas sozinhas não são boas,** são perguntas que começam com: você usaria, você gostaria, você reclamaria, você se importaria, ou seja perguntas no futuro do pretérito. Mas se em algum momento você precisar fazer esse tipo de pergunta, tente corrigir buscando as motivações e comportamentos por trás dessas respostas. 
+[ ] **Perguntas hipotéticas sozinhas não são boas,** são perguntas que começam com: você usaria, você gostaria, você reclamaria, você se importaria, ou seja perguntas no futuro do pretérito. Mas se em algum momento você precisar fazer esse tipo de pergunta, tente corrigir buscando as motivações e comportamentos por trás dessas respostas. 
 
-- [ ] Respostas que começam com: ”Eu geralmente…” ”Eu sempre…” ”Eu nunca…” necessitam de uma pergunta a mais, para entender o que é esse “_geralmente_”, o que é _“sempre_”. Tente ser mais específico.
+[ ] Respostas que começam com: ”Eu geralmente…” ”Eu sempre…” ”Eu nunca…” necessitam de uma pergunta a mais, para entender o que é esse “_geralmente_”, o que é _“sempre_”. Tente ser mais específico.
 
-- [ ] **Não se prenda aos elogios.** Caso a pessoa já te conheça, ou saiba algo sobre você, deixa os elogios um pouco de lado, isso não vai te ajudar a aprender nesse momento. E se por um acaso a pessoa te elogiar no final, depois que você falar da sua ideia, lembre-se que elogio não é compromisso. Não é porque ela te elogiou que ela compraria seu produto.
+[ ] **Não se prenda aos elogios.** Caso a pessoa já te conheça, ou saiba algo sobre você, deixa os elogios um pouco de lado, isso não vai te ajudar a aprender nesse momento. E se por um acaso a pessoa te elogiar no final, depois que você falar da sua ideia, lembre-se que elogio não é compromisso. Não é porque ela te elogiou que ela compraria seu produto.
 
-- [ ] Você vai encontrar os “reclamões” durante as entrevistas, são pessoas que reclamam de tudo, mas não faz muita coisa pra resolver. Eles podem dar **uma falsa sensação de que um problema é muito grande**, enviesando o entrevistador. Nesse caso, também tente ancorar nos comportamentos. Se a pessoa falar: “nossa isso pra mim é horrível, realmente acaba com o meu dia”, se isso realmente for horrível, provavelmente a pessoa tentou melhorar de alguma maneira né? Mas o que acontece, é que quando você pergunta o que a pessoa já tentou pra resolver aquele problema, pode ser que ela responda que nunca tentou nada. Isso pode ser um sinal que esse problema não é tão grande assim.
+[ ] Você vai encontrar os “reclamões” durante as entrevistas, são pessoas que reclamam de tudo, mas não faz muita coisa pra resolver. Eles podem dar **uma falsa sensação de que um problema é muito grande**, enviesando o entrevistador. Nesse caso, também tente ancorar nos comportamentos.
+
+Se a pessoa falar: “nossa isso pra mim é horrível, realmente acaba com o meu dia”, se isso realmente for horrível, provavelmente a pessoa tentou melhorar de alguma maneira né? Mas o que acontece, é que quando você pergunta o que a pessoa já tentou pra resolver aquele problema, pode ser que ela responda que nunca tentou nada. Isso pode ser um sinal que esse problema não é tão grande assim.
 
 Então até aqui, entendemos já os princípios e o que evitar nas entrevistas, mas como prepará-las?
 
@@ -93,22 +90,19 @@ Primeiro é importante que você defina o objetivo, por que você vai entrevista
 
 > Pode ser pra lançar um novo produto, para entender por que os clientes estão saindo da empresa, para entender por que os funcionários não estão engajados. São várias opções, e é importante definir esse objetivo que você quer alcançar, ou esse problema que você quer resolver.  
 
-
 Bom, depois que você definiu o objetivo, **recomendo você fazer uma matriz CSD.**
 
-O que é uma matriz CSD, Giampaolo?
-
-CSD significa Certezas, Suposições e Dúvidas.
+O que é uma matriz CSD, Giampaolo? CSD significa Certezas, Suposições e Dúvidas.
 
 Simplesmente escreva todas as coisas que são certezas, tudo o que é suposição e tudo o que é dúvida.
 
-Em certezas, logicamente você escreve tudo o que é certeza, seja sobre clientes, mercado, limitações, tecnologia, tudo que auxilia no objetivo que você levantou no passo anterior.
+Em **certezas**, logicamente você escreve tudo o que é certeza, seja sobre clientes, mercado, limitações, tecnologia, tudo que auxilia no objetivo que você levantou no passo anterior.
 
 _Uma coisa importante: você precisa indicar os dados que confirmam essas certezas._
 
-Em suposições, você vai colocar tudo que você acha que é verdade, são crenças que você tem poucas evidências, mas que não consegue afirmar que é certeza ainda.
+Em **suposições**, você vai colocar tudo que você acha que é verdade, são crenças que você tem poucas evidências, mas que não consegue afirmar que é certeza ainda.
 
-Em dúvidas, tudo o que você realmente tem dúvida, que você não faz ideia, mas que seria importante descobrir. A diferença entre suposições e dúvidas, é que em suposições você já tem evidências iniciais e em dúvidas realmente você não sabe nada, mas quer descobrir.
+Em **dúvidas**, tudo o que você realmente tem dúvida, que você não faz ideia, mas que seria importante descobrir. A diferença entre suposições e dúvidas, é que em suposições você já tem evidências iniciais e em dúvidas realmente você não sabe nada, mas quer descobrir.
 
 Agora que você concluiu a matriz CSD, é hora de organizar.
 
@@ -164,21 +158,21 @@ Depois dessa pergunta quebra-gelo, você pode começar normalmente a entrevista.
 
 Aqui algumas perguntas com base nos princípios da parte 1.
 
-1. **Comportamentos**
+**Comportamentos**
 “Qual foi a última vez que aconteceu X, Y, Z”
 “O que você já tentou para resolver isso?”
 
-2. **Contexto** 
+**Contexto** 
 “Pode me falar um pouco mais quando X, Y, Z aconteceu?”
 “Me conta sobre o que você está fazendo para melhorar isso?”
 “O que te impede de alcançar isso?”
 
-3. **Motivações**
+**Motivações**
 “Por que X te incomoda?”
 “Quais as consequências disso?”
 “Por que você fez tal coisa…”
 
-**Importante:** caso a pessoa já queira te dar uma uma ideia de solução durante a entrevista, o que é normal, entre à fundo no por quê ela quer aquilo, em uma pergunta como:
+Importante: caso a pessoa já queira te dar uma uma ideia de solução durante a entrevista, o que é normal, entre à fundo no por quê ela quer aquilo, em uma pergunta como:
 
 “No que isso (a solução) te ajudaria?”
 
@@ -188,12 +182,12 @@ _Ah, às vezes a pessoa já respondeu uma pergunta que você faria, antes de voc
 
 **DICAS FINAIS**
 
-* **Pratique a Escuta ativa**: pegue trechos do que a pessoa falou para formular sua pergunta (porque a pessoa se sente ouvida quando você cita na sua pergunta algo que ela falou). Não fique pensando na próxima pergunta, preste atenção no entrevistado.
+- **Pratique a Escuta ativa**: pegue trechos do que a pessoa falou para formular sua pergunta (porque a pessoa se sente ouvida quando você cita na sua pergunta algo que ela falou). Não fique pensando na próxima pergunta, preste atenção no entrevistado.
 
-* **Muitas vezes a resposta vai ser superficial**, e o grande segredo é entrar à fundo. Essa é a diferença entre quem nunca realizou uma entrevista, e quem já tem certa experiência. De início você não consegue formular perguntas em cima das respostas do cliente ali na hora, mas com o tempo você desenvolve essa habilidade.
+- **Muitas vezes a resposta vai ser superficial**, e o grande segredo é entrar à fundo. Essa é a diferença entre quem nunca realizou uma entrevista, e quem já tem certa experiência. De início você não consegue formular perguntas em cima das respostas do cliente ali na hora, mas com o tempo você desenvolve essa habilidade.
 
-* Se for o caso de **coletar informações de um cliente que está saindo do seu serviço, tente ser mais pontual**, seja objetivo, se possível faça a pergunta mais importante (se for apenas uma, ainda melhor). Conseguir entrevistas esses clientes é um pouquinho mais difícil.
+- Se for o caso de **coletar informações de um cliente que está saindo do seu serviço, tente ser mais pontual**, seja objetivo, se possível faça a pergunta mais importante (se for apenas uma, ainda melhor). Conseguir entrevistas esses clientes é um pouquinho mais difícil.
 
 E a pergunta que não quer calar: **quando parar com as entrevistas?** É simples, quando não tem nada novo, as respostas já estão entrando no mesmo padrão.
 
-Se você achar que vale compartilhar esse conteúdo com alguém, sinta-se totalmente à vontade, eu tenho vídeos complementares à este artigo no canal também, como um que eu falo sobre como a concorrência nem sempre é o que a gente imagina.
+Se você achar que vale compartilhar esse conteúdo com alguém, sinta-se totalmente à vontade, eu tenho [vídeos complementares] (https://youtube.com/c/ogiampaolo) à este artigo no canal também, como um que eu falo sobre como a concorrência nem sempre é o que a gente imagina.
