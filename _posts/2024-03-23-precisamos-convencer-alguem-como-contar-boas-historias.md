@@ -1,4 +1,9 @@
-# O que você fazia quando era mais novo, não faz mais, e sente falta?
+---
+layout: post
+title: O que você fazia quando era mais novo, não faz mais, e sente falta?
+permalink: precisamos-convencer-alguem-como-contar-boas-historias
+tags: [fundamentos]
+---
 
 É comum olharmos para trás e falar: **"nossa, olha como eu fiz isso, se fosse hoje nunca faria assim"**, ou em uma perspectiva de negócios "se fosse com a expertise de hoje, as coisas seriam bem diferentes".
 
