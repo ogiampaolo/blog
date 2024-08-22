@@ -5,6 +5,8 @@ permalink: arvore-de-oportunidades-teresa-torres
 tags: [fundamentos]
 ---
 
+> Antes de tudo, saiba que continuamos os trabalhos na **SBC (Skeptical But Curious School)**. Você consegue acessar [clicando aqui](https://sbcschool.com.br).
+
 Você sabe me dizer qual é o próximo passo da sua empresa ou da empresa que você trabalha? O que tem que melhorar no produto ou no serviço? Ou como resolver aquele velho problema de retenção de clientes?
 
 Ao final desse texto, o meu objetivo é que você saia daqui com uma estrutura bem clara, em como você usar os dados ou entrevistas que você faz com os clientes, para melhorar o produto ou serviço de forma contínua. Para isso, vou te dar um exemplo prático ao longo do artigo.
