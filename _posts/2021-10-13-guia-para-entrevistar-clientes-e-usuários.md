@@ -5,6 +5,8 @@ permalink: guia-para-entrevistas-com-clientes-e-usuarios
 tags: [fundamentos]
 ---
 
+Antes de tudo, saiba que continuamos os trabalhos na SBC (Skeptical But Curious School). Você consegue acessar [clicando aqui](https://sbcschool.com.br).
+
 Escutar o cliente como base para o produto ou marketing já não é mais uma novidade. Inclusive em muitos casos já é uma necessidade.
 
 Nesse artigo juntei experiência que já tive rodando algumas centenas de entrevistas, e complementei com a união do conteúdo de 7 livros que abordam o tema de alguma maneira.
